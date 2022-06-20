@@ -1,6 +1,13 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
-title: Identification-of-phage-load-and-injection-time-in-simulated-phage-therapy-occurrences: 1.0
-url: https://observablehq.com/@3784219e03ed337e/interactive-phage-simulation
+authors:
+  - family-names: Marongiu
+    given-names: Luigi
+    orcid:  https://orcid.org/0000-0003-4720-7087 
+  - family-names: Plunder
+    given-names: Steffen
+    orcid:  https://orcid.org/0000-0002-3371-3790
+title: ObservableHQ Notebook: Identification of phage load and injection time in simulated phage therapy occurrences
+repository-code: "https://github.com/SteffenPL/Identification-of-phage-load-and-injection-time-in-simulated-phage-therapy-occurrences"
 version: v1.0.0
 date-released: 2022-06-20
