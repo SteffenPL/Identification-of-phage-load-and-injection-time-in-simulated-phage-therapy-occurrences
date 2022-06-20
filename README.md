@@ -1,5 +1,7 @@
 # Identification of phage load and injection time in simulated phage therapy occurrences
 
+[![DOI](https://zenodo.org/badge/505390216.svg)](https://zenodo.org/badge/latestdoi/505390216)
+
 https://observablehq.com/@3784219e03ed337e/interactive-phage-simulation@533
 
 View this notebook in your browser by running a web server in this folder. For
