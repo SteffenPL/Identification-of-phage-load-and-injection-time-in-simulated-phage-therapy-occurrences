@@ -1,0 +1,14 @@
+{
+  "name": "@3784219e03ed337e/interactive-phage-simulation",
+  "main": "2cbb249555edba04@533.js",
+  "version": "533.0.0",
+  "homepage": "https://observablehq.com/@3784219e03ed337e/interactive-phage-simulation",
+  "author": {
+    "name": "Luigi Marongiu",
+    "url": "https://observablehq.com/@3784219e03ed337e"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
